@@ -12,7 +12,7 @@ questions = [
     },
     
     {
-        'Question': 'What of these skins Lux (League of Legends) have?',
+        'Question': 'What of these skins Lux (League of Legends) has?',
         'Options': ['Coven', 'Blood Moon', 'Project', 'Cosmic'],
         'Answer': "Cosmic"
     },

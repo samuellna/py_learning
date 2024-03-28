@@ -15,7 +15,13 @@ pessoa = {
     'idade': 900,
 }
 
-print(pessoa.keys('nome'))
+lista = []
+
+lista.append(pessoa)
+lista.append(pessoa)
+print(lista[0]['nome'])
+
+print(pessoa.keys())
 
 pessoa.setdefault('idade', 0)
 print(pessoa['idade'])
